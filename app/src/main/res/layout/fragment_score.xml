@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="@drawable/ic_bg"
+        android:background="@drawable/flagbg"
         tools:ignore="MissingDefaultResource">
 
         <ImageView
@@ -24,7 +24,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Display Result"
+            android:text="Display Result with score"
             android:layout_margin="25dp"
             android:layout_centerInParent="true"
             android:layout_below="@id/imageView"
@@ -45,7 +45,7 @@
             android:layout_marginBottom="30dp"
             android:layout_marginStart="30dp"
             android:layout_marginEnd="30dp"
-            android:text="Play Again" />
+            android:text="Play Again " />
 
 
     </RelativeLayout>

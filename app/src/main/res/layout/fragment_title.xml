@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="@drawable/ic_bg"
+    android:background="@drawable/flagbg"
     android:orientation="vertical">
 
     <TextView
@@ -55,7 +55,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/et_name"
-                    android:hint=" Enter your name"
+                    android:hint=" Enter your name here"
                     android:textColorHint="@color/white"
                     android:textColor="@color/white"
                     android:inputType="textPersonName"/>
